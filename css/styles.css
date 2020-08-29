@@ -60,7 +60,7 @@ body {
   text-align: center;
 }
 .section1 .section-description , .section2 .section-description, .section3 .section-description{
-  text-align: center;
+  text-align: left;
 }
 /********** Large devices only **********/
 @media (min-width: 1200px) {
